@@ -11,4 +11,4 @@ Original Post: https://www.instagram.com/p/CYtT4NZANX
 
 ![image](https://user-images.githubusercontent.com/42675180/169813669-4a2acefc-c739-4e20-8da7-4697529598e7.png)
 
-![link](https://github.com/antonio-pedro99/whatsapp_ui_redesign)
+![Click Here to check more](https://github.com/antonio-pedro99/whatsapp_ui_redesign)
