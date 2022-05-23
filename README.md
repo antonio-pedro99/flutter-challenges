@@ -9,6 +9,6 @@ Original Post: https://www.instagram.com/p/CYtT4NZANX
 
 #### My Approach
 
-![image](https://user-images.githubusercontent.com/42675180/169813669-4a2acefc-c739-4e20-8da7-4697529598e7.png)
+![w](https://user-images.githubusercontent.com/42675180/149642004-9a827b23-d3cd-4a30-a64c-d1a3ec9c0062.gif)
 
 ![Click Here to check more](https://github.com/antonio-pedro99/whatsapp_ui_redesign)
